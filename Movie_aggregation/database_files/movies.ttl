@@ -1,0 +1,64 @@
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.imdb.com/title/tt0068646/> a schema:Movie ;
+    schema:actor "['Marlon Brando', 'Al Pacino', 'James Caan']" ;
+    schema:contentRating "R" ;
+    schema:creator "['Mario Puzo', 'Francis Ford Coppola']" ;
+    schema:dateCreated "2023-01-23T21:36:16.893078"^^xsd:dateTime ;
+    schema:datePublished "1972-03-24" ;
+    schema:director "['Francis Ford Coppola']" ;
+    schema:duration "PT2H55M" ;
+    schema:genre "['Crime', 'Drama']" ;
+    schema:name "The Godfather" ;
+    schema:ratingCount 1865747.0 ;
+    schema:ratingValue "9.2"^^xsd:float .
+
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.imdb.com/title/tt0468569/> a schema:Movie ;
+    schema:actor "['Christian Bale', 'Heath Ledger', 'Aaron Eckhart']" ;
+    schema:contentRating "PG-13" ;
+    schema:creator "['Jonathan Nolan', 'Christopher Nolan', 'David S. Goyer']" ;
+    schema:dateCreated "2023-01-23T21:36:16.895741"^^xsd:dateTime ;
+    schema:datePublished "2008-07-18" ;
+    schema:director "['Christopher Nolan']" ;
+    schema:duration "PT2H32M" ;
+    schema:genre "['Action', 'Crime', 'Drama']" ;
+    schema:name "The Dark Knight" ;
+    schema:ratingCount 2663489.0 ;
+    schema:ratingValue "9.0"^^xsd:float .
+
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.imdb.com/title/tt0071562/> a schema:Movie ;
+    schema:actor "['Al Pacino', 'Robert De Niro', 'Robert Duvall']" ;
+    schema:contentRating "R" ;
+    schema:creator "['Francis Ford Coppola', 'Mario Puzo']" ;
+    schema:dateCreated "2023-01-23T21:36:16.896741"^^xsd:dateTime ;
+    schema:datePublished "1974-12-18" ;
+    schema:director "['Francis Ford Coppola']" ;
+    schema:duration "PT3H22M" ;
+    schema:genre "['Crime', 'Drama']" ;
+    schema:name "The Godfather Part II" ;
+    schema:ratingCount 1276238.0 ;
+    schema:ratingValue "9.0"^^xsd:float .
+
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.imdb.com/title/tt0099674/> a schema:Movie ;
+    schema:actor "['Al Pacino', 'Diane Keaton', 'Andy Garcia']" ;
+    schema:contentRating "R" ;
+    schema:creator "['Mario Puzo', 'Francis Ford Coppola']" ;
+    schema:dateCreated "2023-01-23T21:36:16.897737"^^xsd:dateTime ;
+    schema:datePublished "1990-12-25" ;
+    schema:director "['Francis Ford Coppola']" ;
+    schema:duration "PT2H42M" ;
+    schema:genre "['Crime', 'Drama']" ;
+    schema:name "The Godfather Part III" ;
+    schema:ratingCount 400998.0 ;
+    schema:ratingValue "7.6"^^xsd:float .
+
